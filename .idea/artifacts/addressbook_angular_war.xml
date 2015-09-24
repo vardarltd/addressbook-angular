@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="addressbook-angular:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="addressbook-angular-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="addressbook-angular:war exploded" />
+    </root>
+  </artifact>
+</component>
