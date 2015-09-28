@@ -1,5 +1,4 @@
 # the Addressbook, AngularJS Way
-
 a rewrite of Selim Eren Bekçe's [Address Book ][1]application, with Spring Boot, Spring Data Mongo, and AngularJS. 
 
 ## Up until 
