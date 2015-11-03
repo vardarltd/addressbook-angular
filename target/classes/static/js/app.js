@@ -61,7 +61,6 @@
                     $scope.contacts = this.contacts;
                     findAllContacts($scope);
 
-
                 }, function (response) {
                     // called asynchronously if an error occurs
                     // or server returns response with an error status
@@ -69,6 +68,10 @@
                 });
             this.contact = {};
         };
+
+        this.resetContact = function(){
+            this.contact={};
+        }
 
 
         this.deleteContact = function (contact) {

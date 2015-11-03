@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Created by umitvardar on 15.08.15.
- */
+*/
 
 @SpringBootApplication
 public class AddressbookAngularApplication {
